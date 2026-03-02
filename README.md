@@ -6,6 +6,5 @@ function SayHello()
     print("check out my guns.lol | @g3z")
 end
 
--- Call the function
 SayHello()
 ```
